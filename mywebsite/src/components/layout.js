@@ -36,7 +36,7 @@ const Layout = ({ children }) => {
         <main>{children}</main>
         <footer
         alignItems = "center">
-          © {new Date().getFullYear()}, Built by Thorsteinn Jonsson
+          © {new Date().getFullYear()}, I made this website with
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
         </footer>
